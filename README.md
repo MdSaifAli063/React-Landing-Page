@@ -126,3 +126,10 @@ index.css
 ```
 
 ## 🧭 Routing
+| Path                  | Description    |
+| --------------------- | -------------- |
+| `/`                   | Home           |
+| `/about`              | About          |
+| `/contact`            | Contact        |
+| `/user` or `/:userId` | User           |
+| `/github`             | GitHub Section |
