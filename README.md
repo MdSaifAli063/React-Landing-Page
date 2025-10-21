@@ -48,3 +48,10 @@ Make sure you have:
 - 📦 npm, pnpm, or yarn
 
 ### 📥 Install Dependencies
+```bash
+npm install
+# or
+pnpm install
+# or
+yarn
+```
