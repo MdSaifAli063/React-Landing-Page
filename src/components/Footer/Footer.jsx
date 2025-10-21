@@ -8,7 +8,7 @@ export default function Footer() {
                     <div className="mb-6 md:mb-0">
                         <Link to="/" className="flex items-center">
                             <img
-                                src="https://ik.imagekit.io/77nsbwefl/Screenshot%202025-10-21%20010229_edited.png?updatedAt=1760988863747"
+                                src="https://ik.imagekit.io/77nsbwefl/hgjjhhj.png?updatedAt=1761075510942"
                                 className="mr-3 h-16"
                                 alt="Logo"
                             />
