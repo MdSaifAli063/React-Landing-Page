@@ -1,6 +1,6 @@
 # ⚛️ React Landing Page using Routings
 <p align="center">
-  A modern, responsive landing page built with <b>React</b>, <b>Vite</b>, <b>React Router</b>, and <b>Tailwind CSS</b>.<br>
+  A modern, responsive landing page built with <b>React</b>, <b>Vite</b>, <b>React Router</b>, and <b>Tailwind CSS</b>.
   Features a clean blue/white theme, accessible UI components, and a mobile-first design 🌐
 </p>
 
