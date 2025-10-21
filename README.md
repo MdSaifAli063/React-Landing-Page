@@ -141,7 +141,7 @@ If your routes fetch data (e.g., GitHub API), create a .env file:
 .env
 .env.local
 ```
-
+> 🚫 Don’t commit .env files — add them to .gitignore
 
 
 
