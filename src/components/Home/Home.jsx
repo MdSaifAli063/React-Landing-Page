@@ -42,7 +42,7 @@ export default function Home() {
             <div className="grid h-full w-full place-items-center sm:mt-20">
                 <img
                   className="w-56 sm:w-96"
-                  src="https://static.vecteezy.com/system/resources/thumbnails/015/615/121/small_2x/react-native-programming-language-with-laptop-and-code-script-on-screen-illustration-free-vector.jpg"
+                  src="https://invozone.com/static/19942c4c160415eba7900cb1ef27f4ee/history_of_reactjs_044b51ac71.webp"
                   alt="image2"
                 />
             </div>
