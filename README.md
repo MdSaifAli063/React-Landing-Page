@@ -169,4 +169,10 @@ Example (Netlify _redirects):
 - 📱 Mobile-first layout
 
 ## 🧩 Scripts
+| Command             | Description              |
+| ------------------- | ------------------------ |
+| `npm run dev`       | Start dev server         |
+| `npm run build`     | Build for production     |
+| `npm run preview`   | Preview production build |
+| `npm run lint/test` | Optional quality checks  |
 
