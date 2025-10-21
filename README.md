@@ -98,3 +98,16 @@ React-router/
 ```
 > 💡 Your structure may vary slightly — adjust as needed.
 
+## 🗝️ Key Files
+src/components/Home/Home.jsx
+
+🏠 Landing hero with heading, CTA, and preview images
+🎨 Styled using Tailwind for responsive spacing and colors
+
+src/main.jsx
+
+🧭 Contains React Router setup and route definitions
+
+src/index.css
+
+🎨 Includes Tailwind’s base, components, and utilities
