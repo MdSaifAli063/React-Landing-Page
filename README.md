@@ -80,3 +80,21 @@ pnpm preview
 yarn preview
 ```
 ## 📁 Project Structure (Example)
+```pgsql
+React-router/
+├── src/
+│   ├── components/
+│   │   ├── Home/Home.jsx
+│   │   ├── About/About.jsx
+│   │   ├── Contact/Contact.jsx
+│   │   ├── User/User.jsx
+│   │   └── Github/Github.jsx
+│   ├── main.jsx
+│   └── index.css
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+└── README.md
+```
+
+
