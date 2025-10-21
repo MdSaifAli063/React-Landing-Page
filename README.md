@@ -63,3 +63,11 @@ pnpm dev
 # or
 yarn dev
 ```
+### 🏗️ Build for Production
+```bash
+npm run build
+# or
+pnpm build
+# or
+yarn build
+```
