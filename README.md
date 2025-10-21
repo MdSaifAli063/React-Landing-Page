@@ -39,3 +39,5 @@
 | ⚡ **Vite**             | Fast dev server & build tool     |
 | 🧭 **React Router v6** | Client-side routing              |
 | 🎨 **Tailwind CSS**    | Utility-first responsive styling |
+
+## 🚀 Getting Started
