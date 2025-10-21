@@ -115,3 +115,6 @@ src/index.css
 ## 🪶 Tailwind Setup (Quick Reference)
 
 tailwind.config.js
+```js
+content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}']
+```
