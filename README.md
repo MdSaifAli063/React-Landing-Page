@@ -111,3 +111,7 @@ src/main.jsx
 src/index.css
 
 🎨 Includes Tailwind’s base, components, and utilities
+
+## 🪶 Tailwind Setup (Quick Reference)
+
+tailwind.config.js
