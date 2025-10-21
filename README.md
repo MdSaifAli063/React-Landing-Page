@@ -101,7 +101,7 @@ React-router/
 ## 🗝️ Key Files
 src/components/Home/Home.jsx
 
-🏠 Landing hero with heading, CTA, and preview images
+🏠 Landing hero with heading, CTA, and preview images<br>
 🎨 Styled using Tailwind for responsive spacing and colors
 
 src/main.jsx
