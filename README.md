@@ -79,3 +79,4 @@ pnpm preview
 # or
 yarn preview
 ```
+## 📁 Project Structure (Example)
