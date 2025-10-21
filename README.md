@@ -41,3 +41,10 @@
 | 🎨 **Tailwind CSS**    | Utility-first responsive styling |
 
 ## 🚀 Getting Started
+
+ ### ✅ Prerequisites
+
+Make sure you have:
+
+- 🧩 Node.js 18+ (recommended)
+- 📦 npm, pnpm, or yarn
