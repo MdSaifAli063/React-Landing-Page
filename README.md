@@ -43,8 +43,8 @@
 ## 🚀 Getting Started
 
  ### ✅ Prerequisites
-
 Make sure you have:
-
 - 🧩 Node.js 18+ (recommended)
 - 📦 npm, pnpm, or yarn
+
+### 📥 Install Dependencies
