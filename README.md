@@ -32,6 +32,7 @@
 - ✍️ Clean Typography and spacious layout
 - 🔁 Client-side Routing with React Router
 
+## 🖼️ Screenshots
 ## 🧠 Tech Stack
 | ⚙️ Tool                | 💡 Purpose                       |
 | ---------------------- | -------------------------------- |
