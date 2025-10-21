@@ -31,3 +31,5 @@
 - 🖼️ Responsive Images with perfect balance
 - ✍️ Clean Typography and spacious layout
 - 🔁 Client-side Routing with React Router
+
+## 🧠 Tech Stack
