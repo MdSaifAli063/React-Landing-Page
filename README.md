@@ -176,3 +176,10 @@ Example (Netlify _redirects):
 | `npm run preview`   | Preview production build |
 | `npm run lint/test` | Optional quality checks  |
 
+## 🤝 Contributing
+
+- 🍴 Fork this repo
+- 🌿 Create a new feature branch
+- 🧱 Follow consistent code style
+- 🔁 Open a pull request with details
+
