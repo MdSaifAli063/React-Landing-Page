@@ -144,7 +144,19 @@ If your routes fetch data (e.g., GitHub API), create a .env file:
 > 🚫 Don’t commit .env files — add them to .gitignore
 
 
+## 🌍 Deployment
 
+After building, the output is in dist/
+
+You can deploy easily to:
+
+- ▲ Vercel
+- 🌐 Netlify
+- 🐙 GitHub Pages
+- ☁️ Any static host
+
+> ⚠️ For SPA routing on static hosts, make sure unknown routes fallback to index.html
+Example (Netlify _redirects):
 
 
 
