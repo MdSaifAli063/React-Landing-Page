@@ -124,3 +124,5 @@ index.css
 @tailwind components;
 @tailwind utilities;
 ```
+
+## 🧭 Routing
