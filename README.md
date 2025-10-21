@@ -5,7 +5,7 @@
 </p> 
 
 <p align="center">
-  <!-- Badges -->
+  <!-- Badges --> 
   <a href="https://react.dev" target="_blank">
     <img src="https://img.shields.io/badge/React-18+-61DAFB?logo=react&logoColor=white" alt="React" />
   </a>
