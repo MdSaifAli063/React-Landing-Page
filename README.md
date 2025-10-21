@@ -35,6 +35,7 @@
 ## 🖼️ Screenshots
 ![image](https://github.com/MdSaifAli063/React-Landing-Page/blob/4ae119b0ce4eeae7ed533b7d5c6780228e4ae351/Screenshot%202025-10-22%20011229_edited.png)
 
+![image](https://github.com/MdSaifAli063/React-Landing-Page/blob/ab79531ccf9475fa82de76dece623a5918bd7b2e/Screenshot%202025-10-22%20011327_edited.png)
 ## 🧠 Tech Stack
 | ⚙️ Tool                | 💡 Purpose                       |
 | ---------------------- | -------------------------------- |
