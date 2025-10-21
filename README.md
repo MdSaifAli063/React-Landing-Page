@@ -33,3 +33,9 @@
 - 🔁 Client-side Routing with React Router
 
 ## 🧠 Tech Stack
+| ⚙️ Tool                | 💡 Purpose                       |
+| ---------------------- | -------------------------------- |
+| ⚛️ **React 18**        | UI library for components        |
+| ⚡ **Vite**             | Fast dev server & build tool     |
+| 🧭 **React Router v6** | Client-side routing              |
+| 🎨 **Tailwind CSS**    | Utility-first responsive styling |
