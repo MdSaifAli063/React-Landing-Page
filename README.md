@@ -133,3 +133,6 @@ index.css
 | `/contact`            | Contact        |
 | `/user` or `/:userId` | User           |
 | `/github`             | GitHub Section |
+
+
+## 🔐 Environment Variables
