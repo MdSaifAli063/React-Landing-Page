@@ -136,3 +136,16 @@ index.css
 
 
 ## 🔐 Environment Variables
+If your routes fetch data (e.g., GitHub API), create a .env file:
+```bash
+.env
+.env.local
+```
+
+
+
+
+
+
+
+
