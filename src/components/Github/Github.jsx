@@ -162,15 +162,6 @@
             <li>
               <Link to="/github?user=MdSaifAli063">/github?user=MdSaifAli063</Link>
             </li>
-            <li>
-              <Link to="/github?user=octocat">/github?user=octocat</Link>
-            </li>
-            <li>
-              <Link to="/github?user=torvalds">/github?user=torvalds</Link>
-            </li>
-            <li>
-              <Link to="/github?user=gaearon">/github?user=gaearon</Link>
-            </li>
           </ul>
         </div>
       </div>
