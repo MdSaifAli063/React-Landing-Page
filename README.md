@@ -55,3 +55,11 @@ pnpm install
 # or
 yarn
 ```
+### 💻 Run in Development
+```bash
+npm run dev
+# or
+pnpm dev
+# or
+yarn dev
+```
