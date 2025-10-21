@@ -71,3 +71,11 @@ pnpm build
 # or
 yarn build
 ```
+### 🔍 Preview Production Build
+```bash
+npm run preview
+# or
+pnpm preview
+# or
+yarn preview
+```
