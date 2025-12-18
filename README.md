@@ -198,5 +198,6 @@ Example (Netlify _redirects):
 - 🧱 Follow consistent code style
 - 🔁 Open a pull request with details
 
+
 ## 📜 License
 🪪 Licensed under the MIT License — see LICENSE for details.
