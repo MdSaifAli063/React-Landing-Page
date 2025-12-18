@@ -181,6 +181,7 @@ Example (Netlify _redirects):
 - ♿ Accessibility-first design
 - 📱 Mobile-first layout
 
+
 ## 🧩 Scripts
 | Command             | Description              |
 | ------------------- | ------------------------ |
