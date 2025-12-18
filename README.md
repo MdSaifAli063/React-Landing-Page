@@ -22,9 +22,7 @@
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License" />
   </a>
 </p>
-
 <hr>
-
 
 ## 🌟 Preview
 - 🏠 Hero Section with download CTA & SVG icon
