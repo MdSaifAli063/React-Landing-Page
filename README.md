@@ -171,6 +171,7 @@ You can deploy easily to:
 > ⚠️ For SPA routing on static hosts, make sure unknown routes fallback to index.html
 Example (Netlify _redirects):
 
+
 ## ✨ Features
 
 - ⚛️ Component-driven architecture
