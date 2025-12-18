@@ -30,6 +30,7 @@
 - ✍️ Clean Typography and spacious layout
 - 🔁 Client-side Routing with React Router
 
+
 ## 🖼️ Screenshots
 ![image](https://github.com/MdSaifAli063/React-Landing-Page/blob/4ae119b0ce4eeae7ed533b7d5c6780228e4ae351/Screenshot%202025-10-22%20011229_edited.png)
 
