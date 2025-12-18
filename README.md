@@ -109,6 +109,7 @@ React-router/
 > 💡 Your structure may vary slightly — adjust as needed.
 
 ## 🗝️ Key Files
+
 src/components/Home/Home.jsx
 
 🏠 Landing hero with heading, CTA, and preview images<br>
